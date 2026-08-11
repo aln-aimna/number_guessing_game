@@ -1,6 +1,10 @@
 # Number Guessing Game
 ## What the Program Does**
 
+https://github.com/aln-aimna/number_guessing_game/blob/main/higher.gif
+https://github.com/aln-aimna/number_guessing_game/blob/main/lower.gif
+https://github.com/aln-aimna/number_guessing_game/blob/main/congrats.gif
+
 The Number Guessing Game generates a random number between 1 and 10 and asks the user to guess it. After each guess, the program gives a hint by telling the user to guess higher or lower until the correct number is found.
 
 ## How to Run
