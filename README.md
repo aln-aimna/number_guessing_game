@@ -1,6 +1,8 @@
 # Number Guessing Game
 ## What the Program Does**
-
+**Main Code:**
+- https://github.com/aln-aimna/number_guessing_game/blob/main/NumberGuessingGame.ipynb
+**Other needed files:**
 - https://github.com/aln-aimna/number_guessing_game/blob/main/higher.gif
 - https://github.com/aln-aimna/number_guessing_game/blob/main/lower.gif
 - https://github.com/aln-aimna/number_guessing_game/blob/main/congrats.gif
